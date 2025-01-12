@@ -1,2 +1,2 @@
 # Online-Course
-It is a online course project
+It is an online course project
